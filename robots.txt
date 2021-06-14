@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://wyattDockstader.github.io/blogsitemap.xml
